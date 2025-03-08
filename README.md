@@ -29,7 +29,7 @@ This project implements a simple **heap memory manager** in C with custom **allo
 ## Compilation & Execution :
  Use your preferred C compiler. For example, with GCC:  
 ```bash
-gcc -o Heap_Management Heap_management.c
-./Heap_management
+gcc -o heap_management heap_management.c
+./heap_management
 ```
 
